@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g>
+	<g>
+		<path fill="#F1D41E" d="M18.071,23.85c0,0,24.396-6.848,45.797-17.12c0,0,33.813,15.408,44.94,17.12
+			c0,0,9.844,58.637-44.94,85.173C63.868,109.023,14.219,88.479,18.071,23.85z"/>
+		<path fill="#FFFEFF" d="M21.411,26.342c0,0,22.61-6.346,42.442-15.866c0,0,31.336,14.28,41.649,15.866
+			c0,0,9.123,54.342-41.649,78.935C63.854,105.278,17.842,86.238,21.411,26.342z"/>
+		<path fill="#F1D41E" d="M25.746,29.201c0,0,20.56-5.771,38.595-14.428c0,0,28.496,12.986,37.874,14.428
+			c0,0,8.296,49.416-37.874,71.781C64.342,100.981,22.5,83.667,25.746,29.201z"/>
+	</g>
+	<path d="M84.533,76.449c0,1.503-1.104,2.722-2.465,2.722h-34.21c-1.361,0-2.465-1.219-2.465-2.722V59.1
+		c0-1.503,1.104-2.722,2.465-2.722h34.21c1.361,0,2.465,1.219,2.465,2.722V76.449z"/>
+	<path d="M48.293,39.233l6.856-0.161c0,0,10.318-10.834,19.947,0.161c0,0,0.963,1.284,1.766,4.013V54.16h5.778V43.522
+		c0,0,0-12.956-15.969-15.524C66.67,27.998,53.588,26.553,48.293,39.233z"/>
+	<g>
+		<circle fill="#F1D41E" cx="64.856" cy="68.195" r="7.749"/>
+		<circle cx="64.856" cy="68.195" r="7.107"/>
+		<circle fill="#F1D41E" cx="64.856" cy="68.195" r="6.723"/>
+		<text transform="matrix(1 0 0 1 58.8105 73.5976)" font-family="'PerpetuaTitlingMT-Bold'" font-size="11.1893">W</text>
+		<text transform="matrix(1 0 0 1 70.9283 73.5976)" font-family="'PerpetuaTitlingMT-Light'" font-size="11.1893">  </text>
+	</g>
+	<text transform="matrix(1 0 0 1 12.5001 123.875)" font-family="'Arial-Black'" font-size="13.9395">SECURE MOZ</text>
+</g>
+</svg>
